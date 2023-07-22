@@ -138,7 +138,7 @@ export default function Home() {
 
       <section className="mt-36 container">
         <h1 className="font-playfair tracking-tight text-4xl border-b border-b-[#FF7757] border-b-2 inline pb-2">
-          Traveler's Experiences
+          Traveler&apos;s Experiences
         </h1>
         <p className="text-sm text-gray-500 mt-8">
           Here some awesome feedback from our travelers
